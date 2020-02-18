@@ -1092,19 +1092,22 @@ section.lazy-placeholder:after {
   color: #c1c1c1 !important;
 }
 .cid-qTkA127IK8 {
-  padding-top: 90px;
-  padding-bottom: 135px;
-  background-image: url("../../../assets/images/mbr-5-1920x1280.jpg");
+  padding-top: 135px;
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/bg8-720x405.png");
 }
 .cid-qTkA127IK8 H1 {
-  color: #f9f295;
+  color: #f7ed4a;
+  text-align: right;
 }
 .cid-qTkA127IK8 H3 {
   color: #ffffff;
+  text-align: right;
 }
 .cid-qTkA127IK8 .mbr-text,
 .cid-qTkA127IK8 .mbr-section-btn {
   color: #ffffff;
+  text-align: center;
 }
 .cid-rOV9bIloeP {
   padding-top: 90px;
