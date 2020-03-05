@@ -1149,6 +1149,24 @@ section.lazy-placeholder:after {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
 }
+.cid-rSl1haQodH {
+  padding-top: 45px;
+  padding-bottom: 30px;
+  background-color: #b2ccd2;
+}
+@media (min-width: 992px) {
+  .cid-rSl1haQodH .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rSl1haQodH .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-rSl1haQodH .mbr-text {
+  color: #767676;
+}
 .cid-rQIoqBhkCA {
   padding-top: 30px;
   padding-bottom: 30px;
